@@ -1,5 +1,5 @@
 {
-  "name": "palindrome",
+  "name": "mgenovesefirstnpm-palindrome",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miagenovese/mgenovese-palindrome.git"
+    "url": "git+https://github.com/miagenovese/mgenovesefirstnpm-palindrome.git"
   },
   "keywords": [
     "palindrome",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/miagenovese/mgenovese-palindrome/issues"
   },
-  "homepage": "https://github.com/miagenovese/mgenovese-palindrome#readme"
+  "homepage": "https://github.com/miagenovese/mgenovese-palindrome#readme",
+  "dependencies": {
+    "mhartl-palindrome": "^0.2.1"
+  }
 }
