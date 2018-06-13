@@ -1,0 +1,24 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miagenovese/mgenovese-palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "Michael Hartl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miagenovese/mgenovese-palindrome/issues"
+  },
+  "homepage": "https://github.com/miagenovese/mgenovese-palindrome#readme"
+}
