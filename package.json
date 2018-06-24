@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/miagenovese/mgenovese-palindrome#readme",
   "dependencies": {
-    "mhartl-palindrome": "^0.2.1"
+    "mhartl-palindrome": "^0.2.1",
+    "npm": "^6.1.0",
+    "request": "^2.87.0"
   }
 }
